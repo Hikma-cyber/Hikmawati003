@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">tugasSQLlite</string>
+    <string name="selamat_datang_di_sqlite">Selamat Datang di SQLite</string>
+    <string name="enter_username">Enter Username...</string>
+    <string name="enter_password">Enter Password...</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_out">sign_out</string>
+    <string name="hello_home_fragment">hello_home_fragment</string>
+    <string name="hello_account_fragment">hello_account_fragment</string>
+    <string name="enter_confirmation_password">enter_confirmation_password</string>
+    <string name="already_register">already_register</string>
+    <string name="hello_dash_fragment">hello_dash_fragment</string>
+    <string name="title_home">title_home</string>
+    <string name="title_dashboard">title_dashboard</string>
+    <string name="title_account">title_account</string>
+</resources>
